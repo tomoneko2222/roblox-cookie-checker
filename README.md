@@ -4,7 +4,7 @@ This project is an application created using Tkinter that allows users to input 
 
 ## Project Structure
 
-- `src/app.py`: Entry point of the application. Sets up the Tkinter window and Notebook.
+- `src/main.py`: Entry point of the application. Sets up the Tkinter window and Notebook.
 - `src/views/__init__.py`: Initialization file to import the views of the tabs.
 - `src/views/tab1.py`: Defines the view of the first tab with an input field for the user to enter a cookie.
 - `src/views/tab2.py`: Defines the view of the second tab that uses the cookie entered in the first tab to retrieve and display the account's friend information.
